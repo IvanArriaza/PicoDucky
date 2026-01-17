@@ -9,4 +9,4 @@ The sotware chosen to fulfill this goal is the Firmware CircuitPyton, whcih We w
 
 The code is mainly based on the CircuitPython Libraries "usb-hid" and "ada-fruit-hid".
 
-
+We will use Thonny to install the previously mentioned firmware and to write the code that the Rpi pico will run.
