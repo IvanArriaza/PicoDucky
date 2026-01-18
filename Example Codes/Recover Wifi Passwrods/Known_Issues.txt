@@ -1,0 +1,1 @@
+- CMD's ouput is not in UTF-8, which may lead to some reading issues.
