@@ -23,4 +23,11 @@ ly.write("start https://netflix.com")
 kb.press(Keycode.ENTER)
 kb.release_all()
 
+#Exit CMD
+time.sleep(1)
+kb.send(Keycode.ALT,Keycode.TAB)
+ly.write("exit")
+kb.press(Keycode.ENTER)
+kb.release_all()
+
 #As You can see, It simply opens the netflix main webpage upon plugin the device in.
