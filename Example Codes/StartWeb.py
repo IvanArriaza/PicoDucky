@@ -1,4 +1,4 @@
-#This code was written with the purpose of understanding how this hid oriented librarys work. I use an Spanish keyboard layout, which you can easily get. 
+#This code was written with the purpose of understanding how this hid oriented libraries work. I use an Spanish keyboard layout, which you can easily get or change. 
 
 import usb_hid
 import time
