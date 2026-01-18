@@ -1,4 +1,4 @@
-# PicoDucky
+# NanoDucky
 A project whose goal is to create a low-cost USB HID device which is able to send automatic combination on keys upon pluggin It in. Check the LICENSE file to see the code use terms.
 
 # Hardware
